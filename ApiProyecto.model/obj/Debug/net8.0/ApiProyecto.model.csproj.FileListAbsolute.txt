@@ -1,0 +1,17 @@
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\bin\Debug\net8.0\ApiProyecto.model.deps.json
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\bin\Debug\net8.0\ApiProyecto.model.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\bin\Debug\net8.0\ApiProyecto.model.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\bin\Debug\net8.0\ApiProyecto.data.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\bin\Debug\net8.0\ApiProyecto.util.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\bin\Debug\net8.0\ApiProyecto.data.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\bin\Debug\net8.0\ApiProyecto.util.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProyecto.model.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProyecto.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProyecto.model.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProyecto.model.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProyecto.model.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProye.843B806F.Up2Date
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProyecto.model.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\refint\ApiProyecto.model.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProyecto.model.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ref\ApiProyecto.model.dll

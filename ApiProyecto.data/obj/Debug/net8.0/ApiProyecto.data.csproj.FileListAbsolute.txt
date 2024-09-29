@@ -1,0 +1,12 @@
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\bin\Debug\net8.0\ApiProyecto.data.deps.json
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\bin\Debug\net8.0\ApiProyecto.data.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\bin\Debug\net8.0\ApiProyecto.data.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ApiProyecto.data.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ApiProyecto.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ApiProyecto.data.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ApiProyecto.data.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ApiProyecto.data.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ApiProyecto.data.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\refint\ApiProyecto.data.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ApiProyecto.data.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ref\ApiProyecto.data.dll

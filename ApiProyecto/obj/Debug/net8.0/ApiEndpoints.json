@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ApiProyecto.Controllers.UsuarioController",
+    "Method": "m_1_Login_1_1",
+    "RelativePath": "api/Usuario/api/c_1_Login/1_1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "us_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiProyecto.model.Response.Respuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
