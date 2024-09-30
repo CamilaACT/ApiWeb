@@ -1,5 +1,25 @@
 [
   {
+    "ContainingType": "ApiProyecto.Controllers.RolesController",
+    "Method": "m_1_Login_1_1",
+    "RelativePath": "api/Roles/listarRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ApiProyecto.model.Response.Respuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ApiProyecto.Controllers.UsuarioController",
     "Method": "m_1_Login_1_5",
     "RelativePath": "api/Usuario/buscar",
