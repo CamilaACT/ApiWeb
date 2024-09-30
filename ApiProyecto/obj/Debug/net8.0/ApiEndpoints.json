@@ -1,8 +1,8 @@
 [
   {
     "ContainingType": "ApiProyecto.Controllers.UsuarioController",
-    "Method": "m_1_Login_1_1",
-    "RelativePath": "api/Usuario/api/c_1_Login/1_1",
+    "Method": "m_1_Login_1_5",
+    "RelativePath": "api/Usuario/buscar",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -10,6 +10,136 @@
       {
         "Name": "us_id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiProyecto.model.Response.Respuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiProyecto.Controllers.UsuarioController",
+    "Method": "m_1_Login_1_4",
+    "RelativePath": "api/Usuario/editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "ApiProyecto.model.Request.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiProyecto.model.Response.Respuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiProyecto.Controllers.UsuarioController",
+    "Method": "m_1_Login_1_6",
+    "RelativePath": "api/Usuario/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "us_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiProyecto.model.Response.Respuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiProyecto.Controllers.UsuarioController",
+    "Method": "m_1_Login_1_1",
+    "RelativePath": "api/Usuario/listaUsuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "us_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiProyecto.model.Response.Respuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiProyecto.Controllers.UsuarioController",
+    "Method": "m_1_Login_1_2",
+    "RelativePath": "api/Usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "ApiProyecto.model.Request.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiProyecto.model.Response.Respuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiProyecto.Controllers.UsuarioController",
+    "Method": "m_1_Login_1_3",
+    "RelativePath": "api/Usuario/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "ApiProyecto.model.Request.Usuario",
         "IsRequired": true
       }
     ],

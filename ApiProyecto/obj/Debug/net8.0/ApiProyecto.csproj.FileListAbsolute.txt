@@ -42,3 +42,5 @@ C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\A
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\bin\Debug\net8.0\ApiProyecto.model.pdb
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\bin\Debug\net8.0\ApiProyecto.data.pdb
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\bin\Debug\net8.0\ApiProyecto.util.pdb
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\obj\Debug\net8.0\ApiProyecto.sourcelink.json

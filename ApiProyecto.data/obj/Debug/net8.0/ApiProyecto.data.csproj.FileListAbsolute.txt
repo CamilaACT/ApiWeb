@@ -10,3 +10,4 @@ C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\A
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\refint\ApiProyecto.data.dll
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ApiProyecto.data.pdb
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ref\ApiProyecto.data.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.data\obj\Debug\net8.0\ApiProyecto.data.sourcelink.json

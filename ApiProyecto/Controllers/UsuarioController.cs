@@ -1,4 +1,6 @@
-﻿using ApiProyecto.model.Response;
+﻿using ApiProyecto.model.proc;
+using ApiProyecto.model.Request;
+using ApiProyecto.model.Response;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -10,12 +12,60 @@ namespace ApiProyecto.Controllers
     public class UsuarioController : ControllerBase
     {
         [HttpPost]
-        [ActionName("1_1")]
-        [Route("api/c_1_Login/1_1")]
+
+        [Route("listaUsuarios")]
         public Respuesta m_1_Login_1_1([FromBody] int us_id)
         {
-            Respuesta res = model.proc.Usuario.listaUsuarios(us_id);
+            Respuesta res = model.proc.Usuarios.listaUsuarios(us_id);
             return res;
         }
+
+        [HttpPost]
+
+        [Route("login")]
+        public Respuesta m_1_Login_1_2([FromBody] Login log)
+        {
+            Respuesta res = model.proc.Usuarios.iniciarSesion(log);
+            return res;
+        }
+
+
+        [HttpPost]
+
+        [Route("registrar")]
+        public Respuesta m_1_Login_1_3([FromBody] Usuario log)
+        {
+            Respuesta res = model.proc.Usuarios.registar(log);
+            return res;
+        }
+
+        [HttpPut]
+
+        [Route("editar")]
+        public Respuesta m_1_Login_1_4([FromBody] Usuario log)
+        {
+            Respuesta res = model.proc.Usuarios.modificar(log);
+            return res;
+        }
+
+        [HttpPost]
+
+        [Route("buscar")]
+        public Respuesta m_1_Login_1_5([FromBody] int us_id)
+        {
+            Respuesta res = model.proc.Usuarios.buscar(us_id);
+            return res;
+        }
+
+        [HttpDelete]
+
+        [Route("eliminar")]
+        public Respuesta m_1_Login_1_6( int us_id)
+        {
+            Respuesta res = model.proc.Usuarios.eliminar(us_id);
+            return res;
+        }
+
+
     }
 }

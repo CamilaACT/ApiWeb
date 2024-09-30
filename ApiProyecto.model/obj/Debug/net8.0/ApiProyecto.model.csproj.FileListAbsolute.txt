@@ -15,3 +15,4 @@ C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\A
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\refint\ApiProyecto.model.dll
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProyecto.model.pdb
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ref\ApiProyecto.model.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.model\obj\Debug\net8.0\ApiProyecto.model.sourcelink.json
