@@ -44,3 +44,8 @@ C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\A
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\obj\Debug\net8.0\ApiProyecto.pdb
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\obj\Debug\net8.0\ApiProyecto.genruntimeconfig.cache
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\obj\Debug\net8.0\ref\ApiProyecto.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\bin\Debug\net8.0\System.Web.Http.Cors.dll
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

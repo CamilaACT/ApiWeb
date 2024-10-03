@@ -59,7 +59,7 @@ namespace ApiProyecto.Controllers
 
         [HttpDelete]
 
-        [Route("eliminar")]
+        [Route("eliminar/{us_id}")]
         public Respuesta m_1_Login_1_6( int us_id)
         {
             Respuesta res = model.proc.Usuarios.eliminar(us_id);

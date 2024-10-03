@@ -148,13 +148,14 @@ namespace ApiProyecto.model.proc
                 data.DAO.c_base_datos cb = new data.DAO.c_base_datos();
                 System.Data.DataTable dt;
                 string strCon = util.Conexion.Conexion.CadenaConexion();
-                string[] vector = new string[5];
+                string[] vector = new string[6];
                 cb.sp = "usp_Web_usuarios_E_usuario";//poner el nombre correcto
-                vector[0] = "@usu_nombre,v," + usuarioa.nombre;
-                vector[1] = "@usu_correo,v," + usuarioa.correo;
-                vector[2] = "@rol_id,i," + usuarioa.idRol;
-                vector[3] = "@rol_descripcion,v," + usuarioa.rolDescripcion;
-                vector[4] = "@clave,v," + usuarioa.clave;
+                vector[0] = "@usu_id,i," + usuarioa.idRol;
+                vector[1] = "@usu_nombre,v," + usuarioa.nombre;
+                vector[2] = "@usu_correo,v," + usuarioa.correo;
+                vector[3] = "@rol_id,i," + usuarioa.idRol;
+                vector[4] = "@rol_descripcion,v," + usuarioa.rolDescripcion;
+                vector[5] = "@clave,v," + usuarioa.clave;
                 dt = cb.consultar(vector, 1, strCon);
                 res.CodigoError = cb.valo_erro;
                 if (res.CodigoError == -1)

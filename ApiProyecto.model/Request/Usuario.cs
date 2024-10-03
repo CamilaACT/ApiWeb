@@ -8,7 +8,7 @@ namespace ApiProyecto.model.Request
 {
     public class Usuario
     {
-        public string idUsuario { get; set; }
+        public int idUsuario { get; set; }
         public string nombre { get; set; }
         public string correo { get; set; }
         public int idRol { get; set; }

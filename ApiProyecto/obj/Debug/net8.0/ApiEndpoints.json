@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "ApiProyecto.Controllers.MenuController",
+    "Method": "m_1_Login_1_1",
+    "RelativePath": "api/Menu/listarMenu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "us_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiProyecto.model.Response.Respuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ApiProyecto.Controllers.RolesController",
     "Method": "m_1_Login_1_1",
     "RelativePath": "api/Roles/listarRoles",
@@ -74,7 +100,7 @@
   {
     "ContainingType": "ApiProyecto.Controllers.UsuarioController",
     "Method": "m_1_Login_1_6",
-    "RelativePath": "api/Usuario/eliminar",
+    "RelativePath": "api/Usuario/eliminar/{us_id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -82,7 +108,7 @@
       {
         "Name": "us_id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
