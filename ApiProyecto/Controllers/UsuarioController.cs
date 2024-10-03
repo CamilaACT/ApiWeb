@@ -14,7 +14,7 @@ namespace ApiProyecto.Controllers
         [HttpPost]
 
         [Route("listaUsuarios")]
-        public Respuesta m_1_Login_1_1([FromBody] int us_id)
+        public Respuesta m_1_Login_1_1([FromBody] Usuario_id us_id)
         {
             Respuesta res = model.proc.Usuarios.listaUsuarios(us_id);
             return res;
@@ -51,7 +51,7 @@ namespace ApiProyecto.Controllers
         [HttpPost]
 
         [Route("buscar")]
-        public Respuesta m_1_Login_1_5([FromBody] int us_id)
+        public Respuesta m_1_Login_1_5([FromBody] Usuario_nombre us_id)
         {
             Respuesta res = model.proc.Usuarios.buscar(us_id);
             return res;

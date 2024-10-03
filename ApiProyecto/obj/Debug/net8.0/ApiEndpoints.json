@@ -55,7 +55,7 @@
     "Parameters": [
       {
         "Name": "us_id",
-        "Type": "System.Int32",
+        "Type": "ApiProyecto.model.Request.Usuario_nombre",
         "IsRequired": true
       }
     ],
@@ -133,7 +133,7 @@
     "Parameters": [
       {
         "Name": "us_id",
-        "Type": "System.Int32",
+        "Type": "ApiProyecto.model.Request.Usuario_id",
         "IsRequired": true
       }
     ],

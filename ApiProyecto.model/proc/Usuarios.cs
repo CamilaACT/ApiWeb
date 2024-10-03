@@ -13,7 +13,7 @@ namespace ApiProyecto.model.proc
 {
     public class Usuarios
     {
-        public static Respuesta listaUsuarios(int us_id)
+        public static Respuesta listaUsuarios(Usuario_id us_id)
         {
 
             Respuesta res = new Respuesta() { CodigoError = 0, Message = "Sin Resultados", Result = null };
@@ -26,7 +26,7 @@ namespace ApiProyecto.model.proc
                     string strCon = util.Conexion.Conexion.CadenaConexion();
                     string[] vector = new string[1];
                     cb.sp = "usp_Web_usuarios_B_usuarios";//poner el nombre correcto
-                    vector[0] = "@us_id,i," + us_id;
+                    vector[0] = "@us_id,i," + us_id.us_id;
                     dt = cb.consultar(vector, 1, strCon);
                     res.CodigoError = cb.valo_erro;
                     if (res.CodigoError == -1)
@@ -182,7 +182,7 @@ namespace ApiProyecto.model.proc
             return res;
         }
 
-        public static Respuesta buscar(int usu_id)
+        public static Respuesta buscar(Usuario_nombre usu_id)
         {
 
             Respuesta res = new Respuesta() { CodigoError = 0, Message = "Sin Resultados", Result = null };
@@ -195,15 +195,15 @@ namespace ApiProyecto.model.proc
                 string strCon = util.Conexion.Conexion.CadenaConexion();
                 string[] vector = new string[1];
                 cb.sp = "usp_Web_usuarios_B_usuario";//poner el nombre correcto
-                vector[0] = "@usu_id,i," + usu_id;
+                vector[0] = "@usu_nombre,v," + usu_id.nombre;
                 dt = cb.consultar(vector, 1, strCon);
                 res.CodigoError = cb.valo_erro;
                 if (res.CodigoError == -1)
                 {
                     res.Message = "OK";
                     res.Message = cb.valo_resp;
-                    //var dataAsList = DataTableToList(dt);
-                    //res.Result = dataAsList;
+                    var dataAsList = DataTableToList(dt);
+                    res.Result = dataAsList;
 
                 }
                 else
