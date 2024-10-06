@@ -10,3 +10,6 @@ C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\A
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.util\obj\Debug\net8.0\ApiProyecto.util.pdb
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.util\obj\Debug\net8.0\ref\ApiProyecto.util.dll
 C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.util\obj\Debug\net8.0\ApiProyecto.util.sourcelink.json
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.util\bin\Debug\net8.0\ApiProyecto.util.runtimeconfig.json
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.util\obj\Debug\net8.0\ApiProyecto.util.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documentos\Udla\SeptimoSemestre\Web\ProgresoI\Proyecto\ApiNet\ApiProyecto\ApiProyecto.util\obj\Debug\net8.0\ApiProyecto.util.genruntimeconfig.cache

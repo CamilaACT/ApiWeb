@@ -14,7 +14,7 @@ namespace ApiProyecto.Controllers
         [Route("listarRoles")]
         public Respuesta m_1_Login_1_1()
         {
-            Respuesta res = model.proc.Rol.listaRoles();
+            Respuesta res = model.proc.p_Rol.listaRoles();
             return res;
         }
 

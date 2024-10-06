@@ -15,7 +15,7 @@ namespace ApiProyecto.Controllers
         [Route("listarMenu")]
         public Respuesta m_1_Login_1_1([FromBody] int us_id)
         {
-            Respuesta res = model.proc.Menu.listaMenu(us_id);
+            Respuesta res = model.proc.p_Menu.listaMenu(us_id);
             return res;
         }
 
