@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12E35304-D8CB-4141-BBBF-504A5EF03C30}|ApiProyecto.model\\ApiProyecto.model.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto.model\\proc\\p_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +19,20 @@
       "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12E35304-D8CB-4141-BBBF-504A5EF03C30}|ApiProyecto.model\\ApiProyecto.model.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto.model\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{12E35304-D8CB-4141-BBBF-504A5EF03C30}|ApiProyecto.model\\ApiProyecto.model.csproj|solutionrelative:apiproyecto.model\\request\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9084629E-CA6E-4F57-9514-2176E5F46105}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0F0AE0A-073D-4994-BCFF-102A617A0BE3}|ApiProyecto.data\\ApiProyecto.data.csproj|c:\\users\\camil\\onedrive\\documentos\\udla\\septimosemestre\\web\\progresoi\\proyecto\\apinet\\apiproyecto\\apiproyecto.data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0F0AE0A-073D-4994-BCFF-102A617A0BE3}|ApiProyecto.data\\ApiProyecto.data.csproj|solutionrelative:apiproyecto.data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -92,22 +92,9 @@
               "RelativeDocumentMoniker": "ApiProyecto\\Custom\\Utilidades.cs",
               "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Custom\\Utilidades.cs",
               "RelativeToolTip": "ApiProyecto\\Custom\\Utilidades.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T16:11:25.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\MenuController.cs",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "ApiProyecto\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:15:50.84Z",
               "EditorCaption": ""
             },
             {
@@ -118,53 +105,78 @@
               "RelativeDocumentMoniker": "ApiProyecto.model\\proc\\p_Login.cs",
               "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto.model\\proc\\p_Login.cs",
               "RelativeToolTip": "ApiProyecto.model\\proc\\p_Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwGsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T17:19:07.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Controllers\\LoginController.cs",
               "RelativeToolTip": "ApiProyecto\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T17:00:15.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "ApiProyecto\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T07:16:36.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Program.cs",
               "RelativeDocumentMoniker": "ApiProyecto\\Program.cs",
               "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Program.cs",
               "RelativeToolTip": "ApiProyecto\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwCkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwC0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T16:45:32.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiProyecto\\appsettings.json",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\appsettings.json",
+              "RelativeToolTip": "ApiProyecto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T15:51:41.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "ApiProyecto\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:15:50.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\RolesController.cs",
@@ -172,12 +184,11 @@
               "RelativeToolTip": "ApiProyecto\\Controllers\\RolesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:15:59.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T07:15:59.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Respuesta.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto.model\\Response\\Respuesta.cs",
               "RelativeDocumentMoniker": "ApiProyecto.model\\Response\\Respuesta.cs",
@@ -185,12 +196,11 @@
               "RelativeToolTip": "ApiProyecto.model\\Response\\Respuesta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T16:31:31.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T16:31:31.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto.model\\Request\\Login.cs",
               "RelativeDocumentMoniker": "ApiProyecto.model\\Request\\Login.cs",
@@ -198,12 +208,11 @@
               "RelativeToolTip": "ApiProyecto.model\\Request\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T19:29:44.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T19:29:44.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "p_Menu.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto.model\\proc\\p_Menu.cs",
               "RelativeDocumentMoniker": "ApiProyecto.model\\proc\\p_Menu.cs",
@@ -211,12 +220,11 @@
               "RelativeToolTip": "ApiProyecto.model\\proc\\p_Menu.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:13:29.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T07:13:29.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "p_Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto.model\\proc\\p_Usuarios.cs",
               "RelativeDocumentMoniker": "ApiProyecto.model\\proc\\p_Usuarios.cs",
@@ -224,12 +232,11 @@
               "RelativeToolTip": "ApiProyecto.model\\proc\\p_Usuarios.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAgwDcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:14:45.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T07:14:45.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "p_Rol.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto.model\\proc\\p_Rol.cs",
               "RelativeDocumentMoniker": "ApiProyecto.model\\proc\\p_Rol.cs",
@@ -237,12 +244,11 @@
               "RelativeToolTip": "ApiProyecto.model\\proc\\p_Rol.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:13:33.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T07:13:33.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Usuario_id.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto.model\\Request\\Usuario_id.cs",
               "RelativeDocumentMoniker": "ApiProyecto.model\\Request\\Usuario_id.cs",
@@ -250,12 +256,11 @@
               "RelativeToolTip": "ApiProyecto.model\\Request\\Usuario_id.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T15:37:30.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T15:37:30.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Usuario_nombre.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto.model\\Request\\Usuario_nombre.cs",
               "RelativeDocumentMoniker": "ApiProyecto.model\\Request\\Usuario_nombre.cs",
@@ -263,12 +268,11 @@
               "RelativeToolTip": "ApiProyecto.model\\Request\\Usuario_nombre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T15:35:17.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T15:35:17.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto.model\\Request\\Usuario.cs",
               "RelativeDocumentMoniker": "ApiProyecto.model\\Request\\Usuario.cs",
@@ -276,21 +280,7 @@
               "RelativeToolTip": "ApiProyecto.model\\Request\\Usuario.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T19:29:36.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiProyecto\\appsettings.json",
-              "ToolTip": "C:\\Users\\camil\\OneDrive\\Documentos\\Udla\\SeptimoSemestre\\Web\\ProgresoI\\Proyecto\\ApiNet\\ApiProyecto\\ApiProyecto\\appsettings.json",
-              "RelativeToolTip": "ApiProyecto\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-06T15:51:41.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T19:29:36.79Z"
             },
             {
               "$type": "Document",
@@ -302,8 +292,7 @@
               "RelativeToolTip": "ApiProyecto.data\\DAO\\c_base_datos.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAIwH0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:15:03.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T17:15:03.768Z"
             },
             {
               "$type": "Document",
@@ -315,8 +304,7 @@
               "RelativeToolTip": "ApiProyecto\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAUAAAAAAAAAAAAuwBMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-30T19:42:57.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T19:42:57.826Z"
             }
           ]
         }
