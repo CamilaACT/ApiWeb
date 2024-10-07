@@ -57,5 +57,34 @@ namespace ApiProyecto.Custom
 
 
         }
+
+        public bool validarToken(string token)
+        {
+            var claimsPrincipal = new ClaimsPrincipal();
+            var tokenHandler = new JwtSecurityTokenHandler();
+            var validationParameters = new TokenValidationParameters
+            {
+                ValidateIssuerSigningKey = true,
+                //Se puede especificar quien puede accder colocando dominios pero no es necesario
+                ValidateIssuer = false,
+                ValidateAudience = false,
+                ValidateLifetime = true, //tiempo de vida de token
+                ClockSkew = TimeSpan.Zero,
+                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:key"]!))
+            };
+            try
+            {
+                claimsPrincipal = tokenHandler.ValidateToken(token, validationParameters, out SecurityToken validatedToken);
+                return true;
+            }
+            catch (SecurityTokenExpiredException)
+            {
+                return false;
+            }
+            catch (Exception ex) { 
+
+                return false;
+            }
+        }
     }
 }

@@ -52,6 +52,32 @@
     ]
   },
   {
+    "ContainingType": "ApiProyecto.Controllers.LoginController",
+    "Method": "validarToken",
+    "RelativePath": "api/Login/validarToken",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiProyecto.model.Response.Respuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ApiProyecto.Controllers.MenuController",
     "Method": "m_1_Login_1_1",
     "RelativePath": "api/Menu/listarMenu",

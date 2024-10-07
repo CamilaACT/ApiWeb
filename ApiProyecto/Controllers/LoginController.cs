@@ -86,6 +86,29 @@ namespace ApiProyecto.Controllers
             return res;
 
         }
+
+        [HttpGet]
+        [Route("validarToken")]
+        public Respuesta validarToken([FromQuery]string token)
+        {
+            Respuesta respuesta1 = new Respuesta();
+            bool respuesta = _utilidades.validarToken(token);
+            if (respuesta) {
+                respuesta1.CodigoError = -1;
+                respuesta1.Message = "ok";
+
+                return respuesta1;
+            }
+            else
+            {
+                respuesta1.CodigoError = 1;
+                respuesta1.Message = "bad";
+
+                return respuesta1;
+            }
+            
+            
+        }
     }
 
 }

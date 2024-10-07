@@ -15,7 +15,13 @@ namespace ApiProyecto.Controllers
     [ApiController]
     public class UsuarioController : ControllerBase
     {
-       
+
+        private readonly Utilidades _utilidades;
+        public UsuarioController(Utilidades utilidades)
+        {
+            _utilidades = utilidades;
+        }
+
 
         [HttpPost]
 
@@ -32,7 +38,8 @@ namespace ApiProyecto.Controllers
         [Route("registrar")]
         public Respuesta m_1_Login_1_3([FromBody] Usuario log)
         {
-           
+            var contrasenia = _utilidades.encriptaSHA256(log.clave);
+            log.clave = contrasenia;
             Respuesta res = model.proc.p_Usuarios.registar(log);
             return res;
         }
@@ -42,6 +49,8 @@ namespace ApiProyecto.Controllers
         [Route("editar")]
         public Respuesta m_1_Login_1_4([FromBody] Usuario log)
         {
+            var contrasenia = _utilidades.encriptaSHA256(log.clave);
+            log.clave = contrasenia;
             Respuesta res = model.proc.p_Usuarios.modificar(log);
             return res;
         }
