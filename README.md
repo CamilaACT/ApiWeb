@@ -115,12 +115,6 @@ El proyecto está dividido en varias capas lógicas:
 
 1. [Requisitos previos](#requisitos-previos)
 2. [Instalación](#instalación)
-3. [Configuración](#configuración)
-4. [Uso](#uso)
-5. [Tests](#tests)
-6. [Despliegue](#despliegue)
-7. [Contribuciones](#contribuciones)
-8. [Licencia](#licencia)
 
 ## Requisitos previos
 
