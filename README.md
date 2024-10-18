@@ -98,16 +98,6 @@ El objeto `Respuesta` es utilizado para estandarizar las respuestas de las opera
   - Puede ser un objeto de usuario, una lista de elementos, o cualquier otro tipo de dato esperado como resultado de la operación.
   - Si la operación es de tipo "inicio de sesión", este campo puede incluir un token JWT.
 
-Este objeto es utilizado en cada operación para ofrecer un manejo estructurado de los errores y de las respuestas, lo que facilita la comprensión y el manejo de las respuestas dentro del frontend o de cualquier servicio que consuma la API.
-
-```csharp
-public class Respuesta
-{
-    public int CodigoError { get; set; }
-    public string Message { get; set; }
-    public object Result { get; set; }
-}
-
 
 
 ### Estructura del Proyecto
