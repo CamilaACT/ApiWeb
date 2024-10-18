@@ -89,16 +89,7 @@ Esta API está desarrollada en .NET 8 y expone varios servicios relacionados con
 
 El objeto `Respuesta` es utilizado para estandarizar las respuestas de las operaciones en la API. Está compuesto por los siguientes campos:
 
-
-   ```csharp
-   public class Respuesta
-   {
-       public int CodigoError { get; set; }
-       public string Message { get; set; }
-       public object Result { get; set; }
-   }
-
-
+                              
 
 
 
