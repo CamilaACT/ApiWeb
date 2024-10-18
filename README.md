@@ -96,7 +96,6 @@ El objeto `Respuesta` es utilizado para estandarizar las respuestas de las opera
        public object Result { get; set; }
    }
 
-
 ### Estructura del Proyecto
 
 El proyecto está dividido en varias capas lógicas:
