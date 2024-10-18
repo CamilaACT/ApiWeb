@@ -84,14 +84,31 @@ Esta API está desarrollada en .NET 8 y expone varios servicios relacionados con
      - `us_id`: ID del usuario a eliminar.
    - **Respuesta**: 
      - Objeto `Respuesta` que indica el éxito o fallo de la operación.
-
 ### Objeto Respuesta
 
 El objeto `Respuesta` es utilizado para estandarizar las respuestas de las operaciones en la API. Está compuesto por los siguientes campos:
-```bash
-    const variables = {
-        API_URL: "https://localhost:7220/api/"
-    }
+
+- **`CodigoError`**: Un valor entero que indica si la operación fue exitosa o si ocurrió un error.
+  - `-1`: Indica que la operación fue exitosa.
+  - `1`: Indica que ocurrió un error en la operación.
+
+- **`Message`**: Una cadena de texto que contiene un mensaje adicional sobre el resultado de la operación. Este mensaje puede describir el éxito o los detalles del error.
+
+- **`Result`**: Un objeto que contiene el resultado de la operación realizada. Este campo es dinámico y puede variar dependiendo del tipo de operación:
+  - Puede ser un objeto de usuario, una lista de elementos, o cualquier otro tipo de dato esperado como resultado de la operación.
+  - Si la operación es de tipo "inicio de sesión", este campo puede incluir un token JWT.
+
+Este objeto es utilizado en cada operación para ofrecer un manejo estructurado de los errores y de las respuestas, lo que facilita la comprensión y el manejo de las respuestas dentro del frontend o de cualquier servicio que consuma la API.
+
+```csharp
+public class Respuesta
+{
+    public int CodigoError { get; set; }
+    public string Message { get; set; }
+    public object Result { get; set; }
+}
+
+
 
 ### Estructura del Proyecto
 
