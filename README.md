@@ -1,6 +1,3 @@
-# API Web en .NET 8
-
-## Descripción
 
 # API Web en .NET 8
 
@@ -99,6 +96,7 @@ public class Respuesta
     public string Message { get; set; }
     public object Result { get; set; }
 }
+```csharp
 
 ### Estructura del Proyecto
 
